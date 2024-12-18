@@ -50,12 +50,6 @@
 
 ---
 
-### ⚡ GitHub Activity Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=SHUBH4M-KUMAR&theme=react-dark)
-
-
-
-
 ### 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SHUBH4M-KUMAR&show_icons=true&theme=dark" alt="GitHub Stats" />
