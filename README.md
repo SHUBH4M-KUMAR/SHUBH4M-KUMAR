@@ -55,9 +55,8 @@
 ---
 
 ### 📫 Connect with Me
-- LinkedIn: [Your LinkedIn URL](#)  
-- Email: [your.email@example.com](mailto:shubhambpn1234@gmail.com)  
-- Portfolio: [your-portfolio-link.com](#)
+- LinkedIn: [Shubham Kumar](https://www.linkedin.com/in/shubham-kumar-647b53242/)  
+- Email: [Email me!](mailto:shubhambpn1234@gmail.com)  
 
 ---
 
