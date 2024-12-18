@@ -48,15 +48,15 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SHUBH4M-KUMAR&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SHUBH4M-KUMAR&theme=dark" alt="GitHub Streak" />
 </p>
 
 ---
 
 ### 📫 Connect with Me
 - LinkedIn: [Your LinkedIn URL](#)  
-- Email: [your.email@example.com](mailto:your.email@example.com)  
+- Email: [your.email@example.com](mailto:shubhambpn1234@gmail.com)  
 - Portfolio: [your-portfolio-link.com](#)
 
 ---
