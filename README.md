@@ -51,7 +51,8 @@
 ---
 
 ### ⚡ GitHub Activity Graph
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SHUBH4M-KUMAR&theme=github)
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=SHUBH4M-KUMAR&theme=react-dark)
+
 
 
 
