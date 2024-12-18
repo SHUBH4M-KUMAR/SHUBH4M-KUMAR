@@ -10,6 +10,10 @@
 - 🚀 I believe in clean code, innovation, and solving real-world problems.
 
 ---
+### 💡 Random Quote for Inspiration
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
 
 ### 💼 My Tech Stack
 **Languages:**
@@ -46,10 +50,12 @@
 
 ---
 
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=SHUBH4M-KUMAR&theme=github)
+
+
 ### 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SHUBH4M-KUMAR&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SHUBH4M-KUMAR&theme=dark" alt="GitHub Streak" />
 </p>
 
 ---
@@ -60,4 +66,9 @@
 
 ---
 
-⭐ **"If you like what I do, drop a star on my projects!"** ⭐
+```markdown
+### 🎯 Fun Facts About Me:
+- 🧑‍🏫 I love mentoring others on AI/ML projects.
+- 🕹️ I play around with IoT devices for hobby projects.
+- 📖 I enjoy reading tech blogs and exploring new frameworks.
+- 🛠️ Favorite Editor: VS Code + Vim mode!
