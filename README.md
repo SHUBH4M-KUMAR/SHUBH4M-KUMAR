@@ -17,7 +17,7 @@
 
 ### 💼 My Tech Stack
 **Languages:**
-- Python | SQL | JavaScript  
+- Python | SQL | JavaScript | MERN
 
 **Frameworks & Libraries:**
 - Machine Learning: TensorFlow | PyTorch | Scikit-Learn  
@@ -33,10 +33,10 @@
 ---
 
 ### 🌟 Projects
-1. **Aesthetic Score Estimator**  
-   - 📷 *Streamlit app to predict image aesthetic scores using InceptionResNetV2.*  
+1. **PageYatra: web-based application that allows users to dynamically generate and preview Web componenets.**  
+   - 📷 ***PageYatra** is a web-based application that allows users to dynamically generate and preview React components using Tailwind CSS styling.*  
    - **Tech Stack:** Python, TensorFlow, Streamlit  
-   - [View Project](#)
+   - [View Project](https://github.com/SHUBH4M-KUMAR/PageYatra)
 
 2. **Gesture-Controlled Smart Wheelchair**  
    - 🦽 *Developed an IoT-based wheelchair controlled by hand gestures with fall detection.*  
